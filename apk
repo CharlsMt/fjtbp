@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://59.173.241.186:8042/LODP/LEAP/Download/default/2015/12/22/d1ecd3f3b394446f980a1d08f72eb937/_v3_/TBRJL11111.ipa</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.xxx.xxx</string>
+<key>bundle-version</key>
+<string>1.0.3.0</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>福建投保拍测试</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
+
